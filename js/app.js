@@ -4,8 +4,7 @@ const PRIME = 908209935089;
 const ROOT_PRIME = 95300;
 duplicateWords = 0;
 var START_TIME;
-// const dictionary_database = 'https://raw.githubusercontent.com/farhanfuad35/lumos/main/data/E2Bdatabase.json';
-const dictionary_database = '../data/E2Bdatabase.json';
+const dictionary_database = 'https://raw.githubusercontent.com/wadith027/DictionIO/main/data/E2Bdatabase.json';
 class Dictionary{
     database
     numberOfWords
