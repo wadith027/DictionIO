@@ -4,7 +4,7 @@
 
 The Dictionary App with Perfect Hashing is a web application implemented using JavaScript, HTML, and CSS that provides an efficient way to store and retrieve key-value pairs using perfect hashing. Perfect hashing is a technique that minimizes collisions by constructing a hash function that guarantees a unique index for each key in the hash table.
 
-This app allows users to add, search, and remove key-value pairs from the dictionary efficiently, ensuring fast access times and minimal collision conflicts.
+This app allows users to search key-value pairs from the dictionary efficiently, ensuring fast access times and minimal collision conflicts.
 
 # Live Demo
 - Link : https://dictionio.netlify.app/
